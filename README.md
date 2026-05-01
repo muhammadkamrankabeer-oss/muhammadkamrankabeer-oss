@@ -23,6 +23,14 @@ I design and build automated, scalable, and self-healing infrastructure systems 
 
 ## 🚀 Featured Projects
 
+---
+
+### 🌱 Docker Image Optimization (Eco DevOps)
+Lightweight container optimization to reduce size, cost, and resource usage.
+
+👉 https://github.com/muhammadkamrankabeer-oss/docker-image-optimization
+
+
 ### 🔥 DevOps Workstation Automation
 Automated DevOps environment setup using Ansible.
 
