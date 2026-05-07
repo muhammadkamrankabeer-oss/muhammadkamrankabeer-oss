@@ -1,74 +1,69 @@
-# 👨‍💻 Muhammad Kamran Kabeer
+# Muhammad Kamran Kabeer
 
-DevOps Engineer | Linux | Docker | Ansible | Infrastructure Automation
+**DevOps Engineer & IT Trainer** | Lahore, Pakistan
 
----
-
-## 🚀 About Me
-
-I design and build automated, scalable, and self-healing infrastructure systems using DevOps practices.
+I build automated, resilient infrastructure and teach others to do the same.
+10+ years managing IT systems across college labs and independent deployments.
+Currently working at intermediate level with hands-on projects in cloud and DevOps.
 
 ---
 
-## 🛠️ Core Skills
+## What I Work With
 
-- Linux System Administration  
-- Docker & Containerization  
-- Ansible Automation  
-- CI/CD (GitHub Actions)  
-- Infrastructure Design  
-- Monitoring & Observability  
+**Infrastructure & Automation**
+Linux (Ubuntu/Debian) · Docker · Docker Compose · Ansible · Bash
 
----
+**Cloud & IaC**
+AWS (EC2, VPC, RDS, S3, Security Groups, Load Balancers) · Terraform
 
-## 🚀 Featured Projects
+**CI/CD & Monitoring**
+GitHub Actions · Prometheus · Grafana · Nginx
 
----
-
-### 🌱 Docker Image Optimization (Eco DevOps)
-Lightweight container optimization to reduce size, cost, and resource usage.
-
-👉 https://github.com/muhammadkamrankabeer-oss/docker-image-optimization
-
----
-### 🔥 DevOps Workstation Automation
-Automated DevOps environment setup using Ansible.
-
-👉 https://github.com/muhammadkamrankabeer-oss/devops-workstation-automation
+**Security**
+UFW · Fail2Ban · SSH hardening · Linux hardening
 
 ---
 
-### 🔥 Self-Healing Docker System
-Automated container recovery and resilience system.
+## Featured Projects
 
-👉 https://github.com/muhammadkamrankabeer-oss/self-healing-docker
-
----
-
-### 📊 Monitoring Stack Automation
-Prometheus + Grafana monitoring setup using Ansible.
-
-👉 https://github.com/muhammadkamrankabeer-oss/monitoring-stack-automation
-
----
-
-## 💼 Services
-
-- DevOps Automation  
-- Linux Server Setup  
-- Docker Environment Setup  
-- Infrastructure Deployment  
+| Project | What It Does | Stack |
+|---|---|---|
+| [aws-terraform-lab](https://github.com/muhammadkamrankabeer-oss/aws-terraform-lab) | Complete AWS infrastructure as code — VPC, EC2, RDS, S3 | Terraform, AWS |
+| [monitoring-stack-automation](https://github.com/muhammadkamrankabeer-oss/monitoring-stack-automation) | Full Prometheus + Grafana observability stack via Ansible | Ansible, Docker, Prometheus |
+| [cicd-docker-deployment](https://github.com/muhammadkamrankabeer-oss/cicd-docker-deployment) | GitHub Actions pipeline — build, push, deploy automatically | GitHub Actions, Docker |
+| [self-healing-docker](https://github.com/muhammadkamrankabeer-oss/self-healing-docker) | Containers that detect failure and recover automatically | Docker, Ansible, Bash |
+| [docker-image-optimization](https://github.com/muhammadkamrankabeer-oss/docker-image-optimization) | 1.6GB → 97MB image (16x reduction) using Alpine | Docker, Python, Alpine |
+| [devops-workstation-automation](https://github.com/muhammadkamrankabeer-oss/devops-workstation-automation) | One-command DevOps environment setup | Ansible, Terraform, Linux |
 
 ---
 
-## 📈 Goal
+## What I Offer
 
-To build production-ready DevOps systems and deliver real-world automation solutions.
+**DevOps Consulting**
+Linux server setup · Docker deployments · Ansible automation · 
+Monitoring stacks · AWS infrastructure · CI/CD pipelines
+
+**IT Training**
+Practical hands-on courses in Linux, Docker, DevOps fundamentals, 
+and cloud basics. Curriculum built around real systems, not slides.
 
 ---
 
-## 🌐 Portfolio
+## Currently Building
 
-👉 https://muhammadkamrankabeer-oss.github.io/
+- Koha ILS production deployment (Docker + AWS + CI/CD)
+- Web hosting platform (Nginx + Docker + Terraform + SSL)
+- Expanding AWS and Terraform project depth
 
 ---
+
+## Connect
+
+- **LinkedIn:** [Muhammad Kamran Kabeer](https://linkedin.com/in/muhammad-kamran-kabeer-b64740a4)
+- **Portfolio:** [muhammadkamrankabeer-oss.github.io](https://muhammadkamrankabeer-oss.github.io)
+- **Email:** [muhammadkamrankabeer@gmail.com]
+- **Fiverr / Upwork:** Available for freelance projects
+
+---
+
+*Open to remote DevOps roles and freelance infrastructure projects.*
