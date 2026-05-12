@@ -1,91 +1,106 @@
 # Muhammad Kamran Kabeer
 
-## DevOps Engineer | Linux • Docker • Ansible • AWS • Terraform
+## DevOps Engineer | Linux • Docker • Ansible • AWS • Terraform • CI/CD
 
-DevOps Engineer focused on building automated, scalable, and production-style infrastructure using Linux, Docker, Ansible, CI/CD, and AWS.
+DevOps Engineer focused on building production-style infrastructure, automation systems, and cloud-native environments using Linux, Docker, Ansible, Terraform, and AWS.
 
-I specialize in turning manual systems into fully automated infrastructure using Infrastructure as Code.
-
----
-
-## 🚀 Core Expertise
-
-### Infrastructure & Automation
-- Linux (Ubuntu / Debian)
-- Docker & Docker Compose
-- Ansible Automation
-- Bash Scripting
-
-### Cloud & Infrastructure as Code
-- AWS (EC2, VPC, S3, RDS, IAM, Load Balancers)
-- Terraform (Infrastructure as Code)
-
-### CI/CD & Observability
-- GitHub Actions
-- Prometheus
-- Grafana
-- Nginx
-
-### Security
-- Linux Hardening
-- UFW Firewall
-- Fail2Ban
-- SSH Security
+I specialize in turning manual IT systems into automated, scalable, and reliable infrastructure.
 
 ---
 
-## 📌 Featured Projects
+## 🔗 Links
 
-### 1. AWS Infrastructure as Code
-Provisioned full cloud infrastructure using Terraform  
-→ VPC, EC2, S3, RDS, Security Groups  
-**Tech:** Terraform, AWS
-
----
-
-### 2. Self-Healing Docker System
-Automated recovery system for containers  
-→ failure detection + auto restart + recovery  
-**Tech:** Docker, Ansible, Bash
+- 🌐 Portfolio: https://www.devriston.com.pk  
+- 💼 LinkedIn: https://www.linkedin.com/in/kamrankabeer/  
+- 📫 Email: muhammadkamrankabeer@gmail.com  
 
 ---
 
-### 3. Monitoring & Observability Stack
-Full monitoring system for infrastructure  
-→ Prometheus + Grafana dashboards  
-**Tech:** Docker, Ansible
+## 🧰 Core Skills
+
+### 🐧 Linux & System Administration
+Linux (Ubuntu/Debian), Bash, Networking, Security Hardening
+
+### 🐳 Containerization
+Docker, Docker Compose, Containerized Applications
+
+### ⚙️ Automation & DevOps
+Ansible, CI/CD (GitHub Actions), Infrastructure Automation
+
+### ☁️ Cloud & IaC
+AWS (EC2, VPC, S3, IAM, RDS), Terraform (Infrastructure as Code)
+
+### 📊 Monitoring & Observability
+Prometheus, Grafana, Nginx
 
 ---
 
-### 4. CI/CD Pipeline Automation
-Automated build, test, and deployment workflow  
-**Tech:** GitHub Actions, Docker
+## 🚀 Featured Projects
+
+### 🧠 Enterprise Linux Infrastructure (Samba4 Domain System)
+Open-source Active Directory-like system for office environments  
+- Centralized user management  
+- File sharing system  
+- Linux-based domain controller  
+- Automation ready (Ansible integration planned)
 
 ---
 
-### 5. DevOps Workstation Automation
-One-command setup for full DevOps environment  
-**Tech:** Ansible, Terraform, Linux
+### ☁️ AWS Infrastructure as Code
+Fully automated cloud infrastructure using Terraform  
+- VPC, EC2, S3, RDS  
+- Security Groups & IAM  
+- Reproducible cloud environments  
 
 ---
 
-## 🧠 Current Focus
+### 🔄 Self-Healing Docker System
+Fault-tolerant container system with automatic recovery  
+- Failure detection  
+- Auto restart & recovery  
+- Infrastructure resilience simulation  
 
-- AWS Cloud Architecture
+---
+
+### 📊 Monitoring Stack Automation
+Full observability system for infrastructure  
+- Prometheus metrics collection  
+- Grafana dashboards  
+- System-level monitoring  
+
+---
+
+### ⚡ CI/CD Pipeline Automation
+Automated deployment pipeline using GitHub Actions  
+- Build → Test → Deploy workflow  
+- Docker-based deployments  
+
+---
+
+## 🎯 Current Focus
+
+- AWS Cloud Engineering (Advanced)
 - Kubernetes Fundamentals
-- Production-grade DevOps systems
-- Freelance DevOps projects
+- Production-grade DevOps Systems
+- Freelance DevOps Projects
 
 ---
 
-## 🌐 Portfolio
+## 💼 Open To
 
-https://devriston.com.pk
+- DevOps Engineer Roles  
+- Linux System Administration  
+- Cloud Infrastructure Jobs  
+- Remote Freelance Projects  
 
 ---
 
-## 📫 Contact
+## 📌 Philosophy
 
-- LinkedIn: Muhammad Kamran Kabeer
-- Email: muhammadkamrankabeer@gmail.com
-- Open to: Remote DevOps Roles | Freelance Projects
+> "Infrastructure should be automated, reproducible, and failure-resilient."
+
+I build systems that work like real production environments — not just lab demos.
+
+---
+
+⭐ Always learning, always building.
