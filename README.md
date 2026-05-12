@@ -1,69 +1,91 @@
 # Muhammad Kamran Kabeer
 
-**DevOps Engineer & IT Trainer** | Lahore, Pakistan
+## DevOps Engineer | Linux • Docker • Ansible • AWS • Terraform
 
-I build automated, resilient infrastructure and teach others to do the same.
-10+ years managing IT systems across college labs and independent deployments.
-Currently working at intermediate level with hands-on projects in cloud and DevOps.
+DevOps Engineer focused on building automated, scalable, and production-style infrastructure using Linux, Docker, Ansible, CI/CD, and AWS.
 
----
-
-## What I Work With
-
-**Infrastructure & Automation**
-Linux (Ubuntu/Debian) · Docker · Docker Compose · Ansible · Bash
-
-**Cloud & IaC**
-AWS (EC2, VPC, RDS, S3, Security Groups, Load Balancers) · Terraform
-
-**CI/CD & Monitoring**
-GitHub Actions · Prometheus · Grafana · Nginx
-
-**Security**
-UFW · Fail2Ban · SSH hardening · Linux hardening
+I specialize in turning manual systems into fully automated infrastructure using Infrastructure as Code.
 
 ---
 
-## Featured Projects
+## 🚀 Core Expertise
 
-| Project | What It Does | Stack |
-|---|---|---|
-| [aws-terraform-lab](https://github.com/muhammadkamrankabeer-oss/aws-terraform-lab) | Complete AWS infrastructure as code — VPC, EC2, RDS, S3 | Terraform, AWS |
-| [monitoring-stack-automation](https://github.com/muhammadkamrankabeer-oss/monitoring-stack-automation) | Full Prometheus + Grafana observability stack via Ansible | Ansible, Docker, Prometheus |
-| [cicd-docker-deployment](https://github.com/muhammadkamrankabeer-oss/cicd-docker-deployment) | GitHub Actions pipeline — build, push, deploy automatically | GitHub Actions, Docker |
-| [self-healing-docker](https://github.com/muhammadkamrankabeer-oss/self-healing-docker) | Containers that detect failure and recover automatically | Docker, Ansible, Bash |
-| [docker-image-optimization](https://github.com/muhammadkamrankabeer-oss/docker-image-optimization) | 1.6GB → 97MB image (16x reduction) using Alpine | Docker, Python, Alpine |
-| [devops-workstation-automation](https://github.com/muhammadkamrankabeer-oss/devops-workstation-automation) | One-command DevOps environment setup | Ansible, Terraform, Linux |
+### Infrastructure & Automation
+- Linux (Ubuntu / Debian)
+- Docker & Docker Compose
+- Ansible Automation
+- Bash Scripting
 
----
+### Cloud & Infrastructure as Code
+- AWS (EC2, VPC, S3, RDS, IAM, Load Balancers)
+- Terraform (Infrastructure as Code)
 
-## What I Offer
+### CI/CD & Observability
+- GitHub Actions
+- Prometheus
+- Grafana
+- Nginx
 
-**DevOps Consulting**
-Linux server setup · Docker deployments · Ansible automation · 
-Monitoring stacks · AWS infrastructure · CI/CD pipelines
-
-**IT Training**
-Practical hands-on courses in Linux, Docker, DevOps fundamentals, 
-and cloud basics. Curriculum built around real systems, not slides.
-
----
-
-## Currently Building
-
-- Koha ILS production deployment (Docker + AWS + CI/CD)
-- Web hosting platform (Nginx + Docker + Terraform + SSL)
-- Expanding AWS and Terraform project depth
+### Security
+- Linux Hardening
+- UFW Firewall
+- Fail2Ban
+- SSH Security
 
 ---
 
-## Connect
+## 📌 Featured Projects
 
-- **LinkedIn:** [Muhammad Kamran Kabeer](https://linkedin.com/in/muhammad-kamran-kabeer-b64740a4)
-- **Portfolio:** [muhammadkamrankabeer-oss.github.io](https://muhammadkamrankabeer-oss.github.io)
-- **Email:** [muhammadkamrankabeer@gmail.com]
-- **Fiverr / Upwork:** Available for freelance projects
+### 1. AWS Infrastructure as Code
+Provisioned full cloud infrastructure using Terraform  
+→ VPC, EC2, S3, RDS, Security Groups  
+**Tech:** Terraform, AWS
 
 ---
 
-*Open to remote DevOps roles and freelance infrastructure projects.*
+### 2. Self-Healing Docker System
+Automated recovery system for containers  
+→ failure detection + auto restart + recovery  
+**Tech:** Docker, Ansible, Bash
+
+---
+
+### 3. Monitoring & Observability Stack
+Full monitoring system for infrastructure  
+→ Prometheus + Grafana dashboards  
+**Tech:** Docker, Ansible
+
+---
+
+### 4. CI/CD Pipeline Automation
+Automated build, test, and deployment workflow  
+**Tech:** GitHub Actions, Docker
+
+---
+
+### 5. DevOps Workstation Automation
+One-command setup for full DevOps environment  
+**Tech:** Ansible, Terraform, Linux
+
+---
+
+## 🧠 Current Focus
+
+- AWS Cloud Architecture
+- Kubernetes Fundamentals
+- Production-grade DevOps systems
+- Freelance DevOps projects
+
+---
+
+## 🌐 Portfolio
+
+https://devriston.com.pk
+
+---
+
+## 📫 Contact
+
+- LinkedIn: Muhammad Kamran Kabeer
+- Email: muhammadkamrankabeer@gmail.com
+- Open to: Remote DevOps Roles | Freelance Projects
