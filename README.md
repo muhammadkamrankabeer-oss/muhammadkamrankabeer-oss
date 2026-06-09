@@ -1,6 +1,6 @@
 # Muhammad Kamran Kabeer
 
-## DevOps Engineer | Linux • Docker • AWS • Terraform • Ansible • CI/CD
+## Linux Administrator • DevOps & Cloud Practitioner • Infrastructure Automation
 
 DevOps Engineer focused on building automated, production-style infrastructure using Linux, Docker, Ansible, Terraform, AWS, monitoring, and CI/CD pipelines.
 
