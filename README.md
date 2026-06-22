@@ -10,7 +10,9 @@ I specialize in designing and automating scalable, resilient, and reproducible i
 ### 🔗 Connect
 
 🌐 **Website:** [devriston.com.pk](https://devriston.com.pk)
+
 💼 **LinkedIn:** [linkedin.com/in/kamrankabeer](https://www.linkedin.com/in/kamrankabeer/)
+
 📫 **Email:** muhammadkamrankabeer@gmail.com
 
 ---
@@ -37,12 +39,19 @@ I specialize in designing and automating scalable, resilient, and reproducible i
 ### 🏗️ Portfolio Highlights
 
 ✔ 6 End-to-End Infrastructure Projects
+
 ✔ Linux, AWS, Terraform, Docker, Kubernetes & Ansible
+
 ✔ Infrastructure as Code (IaC)
+
 ✔ CI/CD & DevSecOps Workflows
+
 ✔ Monitoring & Observability Platforms
+
 ✔ Production-Style Documentation
+
 ✔ Architecture Diagrams & Troubleshooting Guides
+
 ✔ Interview Preparation Notes Included
 
 ---
