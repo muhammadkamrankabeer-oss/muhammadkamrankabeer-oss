@@ -1,10 +1,10 @@
 # Muhammad Kamran Kabeer
 
-## DevOps & Cloud Engineer • Linux, AWS & Kubernetes Automation • Infrastructure as Code
+## DevOps Engineer • Linux, AWS & Kubernetes Automation • Infrastructure as Code
 
 DevOps Engineer focused on building automated, production-style infrastructure using Linux, Docker, Ansible, Terraform, AWS, Kubernetes, monitoring, and CI/CD pipelines.
 
-I specialize in transforming manual systems into scalable, resilient, and automated infrastructure environments.
+I specialize in designing and automating scalable, resilient, and reproducible infrastructure environments using Infrastructure as Code and DevOps best practices.
 
 ---
 
@@ -20,98 +20,161 @@ I specialize in transforming manual systems into scalable, resilient, and automa
 
 ## 🧰 Core Technologies
 
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+Linux • Docker • Kubernetes • Ansible • Terraform • AWS • GitHub Actions • Prometheus • Grafana • Git
 
 ---
 
-# 🚀 Production-Style Infrastructure Projects
+## 🚀 Production Infrastructure Portfolio
 
-### ☁️ [AWS 3-Tier Terraform Platform](https://github.com/muhammadkamrankabeer-oss/terraform-aws-3tier-platform)
+| Project | Technologies | What It Demonstrates |
+|----------|-------------|----------------------|
+| Terraform AWS 3-Tier Platform | Terraform, AWS, EC2, VPC | Infrastructure as Code, cloud provisioning, modular Terraform architecture |
+| Samba4 Enterprise Identity Suite | Samba4, Ansible, Linux | Enterprise identity management, centralized authentication, automation |
+| Self-Healing Container Platform | Docker, Ansible, Prometheus, Grafana | Monitoring, observability, automated container recovery |
+| Monitoring Stack Automation | Prometheus, Grafana, Loki, Alertmanager | End-to-end observability platform deployment |
+| CI/CD Docker Deployment | GitHub Actions, Docker, Trivy, Pytest | DevSecOps pipelines, automated testing and deployment |
+| Kubernetes Automation Platform | Kubernetes, Ansible, Vagrant, Calico | Automated multi-node Kubernetes cluster provisioning |
+
+---
+
+## 🏗️ Portfolio Highlights
+
+✔ 6 End-to-End Infrastructure Projects
+
+✔ Linux, AWS, Terraform, Docker, Kubernetes & Ansible
+
+✔ Infrastructure as Code (IaC)
+
+✔ CI/CD & DevSecOps Workflows
+
+✔ Monitoring & Observability Platforms
+
+✔ Production-Style Documentation
+
+✔ Architecture Diagrams & Troubleshooting Guides
+
+✔ Interview Preparation Notes Included
+
+---
+
+## 🎯 Areas of Focus
+
+- Linux Infrastructure Engineering
+- DevOps Automation
+- Infrastructure as Code (Terraform & Ansible)
+- Kubernetes Administration
+- Monitoring & Observability
+- CI/CD & DevSecOps
+- AWS Cloud Infrastructure
+
+---
+
+## 📌 Engineering Philosophy
+
+Infrastructure should be:
+
+- Automated
+- Reproducible
+- Observable
+- Resilient
+- Documented
+
+I focus on building production-style environments that reflect real operational workflows rather than isolated lab exercises.
+
+---
+
+## 📂 Featured Projects
+
+### ☁️ Terraform AWS 3-Tier Platform
+
 Production-style AWS infrastructure provisioning using Terraform and modular Infrastructure as Code practices.
 
-**Key Features**
+**Highlights**
+
 - VPC provisioning
 - EC2 deployment
-- Modular Terraform structure
+- Modular Terraform architecture
 - Reproducible cloud infrastructure
 
 ---
 
-### 🏢 [Samba4 Enterprise Identity Suite](https://github.com/muhammadkamrankabeer-oss/samba4-enterprise-identity-suite)
-Enterprise-style Linux domain controller environment using Samba4, Ansible, and centralized authentication.
+### 🏢 Samba4 Enterprise Identity Suite
 
-**Key Features**
+Enterprise-grade Linux identity infrastructure using Samba4, Ansible, and centralized authentication.
+
+**Highlights**
+
+- Active Directory services
 - Centralized authentication
-- Shared network storage
-- Linux domain infrastructure
+- Shared storage integration
 - Infrastructure as Code automation
 
 ---
 
-### 🔄 [Self-Healing Container Platform](https://github.com/muhammadkamrankabeer-oss/self-healing-container-platform)
-Production-style self-healing container platform with monitoring, observability (cAdvisor + Prometheus + Grafana), and automated failure recovery.
+### 🔄 Self-Healing Container Platform
 
-**Key Features**
-- Container health monitoring
-- Automatic recovery workflows
-- Full observability stack integration
-- Docker + Ansible automation
+Production-style self-healing container platform with monitoring, observability, and automated recovery.
 
----
+**Highlights**
 
-### 📊 [Monitoring Stack Automation](https://github.com/muhammadkamrankabeer-oss/monitoring-stack-automation)
-Self-hosted observability stack — Prometheus, Grafana, Loki & Alertmanager — deployed end-to-end with Vagrant, Docker Compose & Ansible.
-
-**Key Features**
-- Infrastructure monitoring
+- Automated container recovery
+- Prometheus monitoring
 - Grafana dashboards
-- Prometheus metrics & alerting
-- Automated deployment
+- Docker & Ansible automation
 
 ---
 
-### ⚡ [CI/CD Docker Deployment](https://github.com/muhammadkamrankabeer-oss/cicd-docker-deployment)
-DevSecOps CI/CD pipeline for a containerized Flask app — GitHub Actions, multi-stage Docker builds, Trivy security scanning, and automated testing.
+### 📊 Monitoring Stack Automation
 
-**Key Features**
-- Build → Test → Scan → Deploy pipeline
+Self-hosted observability stack deployed end-to-end using automation.
+
+**Highlights**
+
+- Prometheus metrics collection
+- Grafana visualization
+- Loki log aggregation
+- Alertmanager integration
+
+---
+
+### ⚡ CI/CD Docker Deployment
+
+DevSecOps pipeline for containerized applications using GitHub Actions.
+
+**Highlights**
+
+- Build → Test → Scan → Deploy workflow
 - Trivy security scanning
-- Automated linting & Pytest
-- Reproducible Vagrant environment
+- Automated testing
+- Docker multi-stage builds
 
 ---
 
-### ☸️ [Kubernetes Automation Platform](https://github.com/muhammadkamrankabeer-oss/k8s-automation-platform)
-Automated multi-node Kubernetes cluster provisioning with Ansible & Vagrant — going beyond minikube/k3s tutorials toward production-style cluster setup. *(Actively building)*
+### ☸️ Kubernetes Automation Platform
 
-**Key Features**
-- Automated multi-node cluster provisioning
-- Ansible-driven node configuration
-- Reproducible Vagrant-based infrastructure
-- Production-style cluster architecture, not a single-node demo
+Automated multi-node Kubernetes cluster provisioning using Ansible and Vagrant.
 
----
+**Highlights**
 
-# 🎯 Specialization
-
-Linux Infrastructure • DevOps Automation • Infrastructure as Code • Kubernetes • Monitoring • CI/CD • Cloud Infrastructure
+- Multi-node Kubernetes cluster
+- Automated node provisioning
+- Calico networking
+- Production-style architecture
 
 ---
 
-# 📌 Philosophy
+## ⭐ Open To Opportunities
 
-> "Infrastructure should be automated, reproducible, and resilient."
+DevOps Engineer • Cloud Engineer • Linux System Administrator
 
-I build practical systems designed to reflect real production-style environments — not just lab demos.
+Open to:
+
+- Remote Roles
+- Freelance Projects
+- Contract Opportunities
+- Junior DevOps Positions
+- Mid-Level DevOps Positions
 
 ---
 
-⭐ Open to DevOps Engineering, Linux Administration, Cloud Infrastructure, Remote Roles, and Freelance Opportunities.
+> Building automated, reproducible, and production-style infrastructure through hands-on engineering.
