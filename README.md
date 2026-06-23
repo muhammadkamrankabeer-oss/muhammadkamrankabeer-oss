@@ -168,15 +168,5 @@ Need production-grade automation, cloud cost optimization, or infrastructure rel
 If you are an enterprise recruiter or engineering manager, I am also open to permanent positions:
 * **Roles:** DevOps Engineer • Cloud Engineer • Linux System Administrator
 * **Availability:** Remote (Global) or Hybrid/On-site (Lahore)
-### ⭐ Open To Opportunities
-
-**DevOps Engineer • Cloud Engineer • Linux System Administrator**
-
-Open to:
-- Remote Roles
-- Freelance Projects
-- Contract Opportunities
-- DevOps Positions
-- Mid-Level DevOps Positions
 
 Building automated, reproducible, and production-style infrastructure through hands-on engineering.
