@@ -149,7 +149,25 @@ Automated multi-node Kubernetes cluster provisioning using Ansible and Vagrant.
 - Production-style architecture
 
 ---
+## 💼 Work With Me / Consulting (Devriston)
 
+Need production-grade automation, cloud cost optimization, or infrastructure reliability? Through **Devriston**, I provide custom technical solutions for startups and engineering teams.
+
+**Services Offered:**
+* 🚀 **AWS Migration & Infrastructure as Code:** Modular Terraform architectures built for scale.
+* 🐳 **Containerization & Clustering:** Production-ready Docker Compose and Kubernetes environments.
+* 📊 **Observability & Monitoring:** Centralized Prometheus, Grafana, Loki, and Alertmanager stacks.
+* 🔄 **CI/CD Automation:** Secure DevSecOps pipelines with GitHub Actions.
+
+📧 **Get in touch:** [muhammadkamrankabeer@gmail.com](mailto:muhammadkamrankabeer@gmail.com) 
+🌐 **Book a Consultation:** [devriston.com.pk](https://devriston.com.pk)
+
+---
+
+## ⭐ Open To Permanent Roles
+If you are an enterprise recruiter or engineering manager, I am also open to permanent positions:
+* **Roles:** DevOps Engineer • Cloud Engineer • Linux System Administrator
+* **Availability:** Remote (Global) or Hybrid/On-site (Lahore)
 ### ⭐ Open To Opportunities
 
 **DevOps Engineer • Cloud Engineer • Linux System Administrator**
@@ -158,7 +176,7 @@ Open to:
 - Remote Roles
 - Freelance Projects
 - Contract Opportunities
-- Junior DevOps Positions
+- DevOps Positions
 - Mid-Level DevOps Positions
 
 Building automated, reproducible, and production-style infrastructure through hands-on engineering.
