@@ -159,8 +159,12 @@ Need production-grade automation, cloud cost optimization, or infrastructure rel
 * 📊 **Observability & Monitoring:** Centralized Prometheus, Grafana, Loki, and Alertmanager stacks.
 * 🔄 **CI/CD Automation:** Secure DevSecOps pipelines with GitHub Actions.
 
-📧 **Get in touch:** [muhammadkamrankabeer@gmail.com](mailto:muhammadkamrankabeer@gmail.com) 
-🌐 **Book a Consultation:** [devriston.com.pk](https://devriston.com.pk)
+📧 **Get in touch:** 
+[muhammadkamrankabeer@gmail.com]
+(mailto:muhammadkamrankabeer@gmail.com) 
+🌐 **Book a Consultation:**
+[devriston.com.pk]
+(https://devriston.com.pk)
 
 ---
 
